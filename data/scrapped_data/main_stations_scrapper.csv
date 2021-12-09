@@ -1,0 +1,309 @@
+,Station_id,Name
+0,21360,Aarau GB
+1,44040,Aarberg
+2,22244,Affoltern am Albis
+3,10355,Allaman
+4,51136,Altdorf
+5,154443,Altenrhein Flugzeugwerk (Abzw)
+6,2238,Arch
+7,15057,Ardon
+8,62117,Arnegg
+9,91579,Arosa
+10,50047,Arth-Goldau
+11,32052,Au ZH
+12,53066,Balerna
+13,2949,Balsthal
+14,901,Basel Bad Bf
+15,406,Basel GB
+16,125,Basel Kleinhüningen Hafen
+17,133,Basel SBB RB
+18,166,Basel St. Johann
+19,190322,Bellach Industrie
+20,52399,Bellinzona S.Paolo
+21,91975,Bergün/Bravuogn
+22,70102,Bern W'haus
+23,61820,Bettwiesen
+24,14027,Bex
+25,52092,Biasca
+26,80895,Biberist Ost
+27,196675,Biel/Bienne Produktionsanlage Ost
+28,22434,Birmensdorf Industrie
+29,182,Birsfelden Hafen
+30,62158,Bischofszell Nord
+31,10967,Bière
+32,11924,Bière-Casernes
+33,52076,Bodio
+34,82545,Brenzikofen
+35,19000,Brescia San Zeno-Folzano
+36,16097,Brig
+37,20024,Brittnau-Wikon
+38,61887,Bronschhofen AMP
+39,3095,Brugg AG
+40,50070,Brunnen
+41,2899,Buchli
+42,94045,Buchs SG
+43,173716,Buchs-Dällikon Industrie
+44,80051,Burgdorf
+45,11171,Bussigny
+46,10926,Bussy-Chardonney
+47,33365,Bäretswil Tobel
+48,34009,Bülach
+49,61069,Bürglen
+50,20933,Büron-Bad Knutwil
+51,54049,Cadenazzo
+52,93682,Campocologno
+53,52126,Castione-Arbedo
+54,91702,Castrisch
+55,11122,Chavornay
+56,53090,Chiasso Smistamento
+57,182683,Chur GB
+58,15107,Châteauneuf-Conthey
+59,52118,Claro
+60,42093,Colombier
+61,41236,Corcelles-Nord
+62,42234,Cornaux
+63,11155,Cossonay-Penthalaz         
+64,43398,Cottendart (embr)
+65,20040,Dagmersellen
+66,11460,Daillens
+67,90720,Davos Dorf
+68,90753,Davos Frauenkirch
+69,90738,Davos Platz
+70,1099,Delémont
+71,0,Desio (1)
+72,0,Desio (2)
+73,35089,Dietikon
+74,91793,Disentis/Mustér
+75,41251,Domdidier
+76,22129,Dottikon-Dintikon
+77,161596,Däniken RB
+78,31286,Dübendorf
+79,41012,Düdingen
+80,22004,Ebikon
+81,11148,Eclépens
+82,72884,Eifeld 
+83,20214,Emmenbrücke
+84,91827,Ems Werk
+85,41327,Estavayer-le-Lac
+86,61010,Felben-Wellhausen
+87,91801,Felsberg
+88,94136,Flums
+89,61002,Frauenfeld
+90,224,Frenkendorf-Füllinsdorf
+91,41004,Fribourg
+92,74781,Frutigen
+93,3277,Full
+94,90613,Furna
+95,16030,Gampel-Steg
+96,10082,Genf
+97,10090,Genève-La-Praille
+98,80887,Gerlafingen
+99,174193,Gettnau Güteranlage
+100,22012,Gisikon-Root
+101,41814,Givisiez
+102,10314,Gland
+103,33100,Glattbrugg
+104,1230,Glovelier
+105,62109,Gossau SG
+106,41228,Granges-Marnand
+107,2022,Grenchen Süd
+108,41384,Grolley
+109,82719,Grünenmatt
+110,90597,Grüsch
+111,51177,Gurtnellen
+112,74880,Gwatt
+113,70037,Gümligen
+114,90514,Haldenstein
+115,22236,Hedingen
+116,63172,Heerbrugg
+117,80085,Herzogenbuchsee
+118,31302,Hinwil
+119,73981,Hondrich Süd
+120,151688,Horchental
+121,63073,Horn
+122,83196,Horw
+123,21048,Hunzenschwil
+124,2154,Hägendorf
+125,2329,Härkingen Post
+126,34033,Hüntwangen-Wil
+127,91710,Ilanz
+128,74930,Interlaken West
+129,3004,Kaiseraugst
+130,32003,Kilchberg
+131,35063,Killwangen-Spreitenbach
+132,90688,Klosters Platz
+133,33084,Kloten
+134,2923,Klus
+135,61283,Kreuzlingen Hafen
+136,90647,Küblis
+137,1784,La Ferrière
+138,90027,Landquart
+139,81448,Langenthal GB
+140,81513,Langenthal Gaswerk
+141,3228,Laufenburg
+142,11288,Lausanne Cargo
+143,10496,Lausanne-Triage
+144,1743,Le Noirmont
+145,40097,Le Verney (embr)
+146,15222,Lecco Maggianico
+147,74989,Leissigbad (Agl)
+148,21196,Lenzburg
+149,2246,Leuzigen
+150,53454,Lugano Vedeggio
+151,22376,Lupfig
+152,2089,Luterbach-Attisholz
+153,50005,Luzern
+154,44149,Lyss
+155,2253,Lüsslingen
+156,82180,Malters
+157,44818,Marin-Epagnier
+158,53033,Maroggia-Melano
+159,15008,Martigny
+160,14209,Massongex
+161,31047,Meilen
+162,94128,Mels
+163,53058,Mendrisio
+164,82974,Menznau
+165,14217,Monthey
+166,14365,Monthey Centre agr Bas-V (embr)
+167,41202,Moudon
+168,208,Muttenz
+169,21063,Mägenwil
+170,61044,Märstetten
+171,3020,Möhlin
+172,1198,Münchenstein
+173,44842,Müntschemier
+174,20057,Nebikon
+175,32284,Netstal
+176,160770,Neuchâtel Cargo
+177,32268,Nieder- und Oberurnen
+178,44925,Niederbottigen BN
+179,33134,Niederglatt
+180,10306,Nyon
+181,2881,Oberbipp
+182,2139,Oberbuchsiten
+183,94003,Oberriet
+184,22194,Oberrüti
+185,60160,Oberwinterthur
+186,2121,Oensingen
+187,2170,Olten Hammer
+188,2402,Olten RB
+189,42028,Onnens-Bonvillars
+190,11908,Orbe-Industrie
+191,70029,Ostermundigen
+192,21055,Othmarsingen
+193,40147,Palézieux
+194,41343,Payerne
+195,32094,Pfäffikon SZ
+196,92551,Pontresina
+197,93617,Poschiavo
+198,216,Pratteln
+199,92544,Punt Muragl
+200,91777,Rabius-Surrein
+201,31104,Rapperswil
+202,35261,Regensdorf-Watt
+203,91835,Reichenau-Tamins
+204,34082,Rekingen AG
+205,11189,Renens VD
+206,11296,Renens VD Larges Pi ces (embr)
+207,43026,Reuchenette-Péry
+208,3012,Rheinfelden
+209,91876,Rodels-Realta
+210,61200,Romanshorn GB
+211,40238,Romont
+212,91868,Rothenbrunnen
+213,20206,Rothenburg
+214,166983,Rothrist GB
+215,22020,Rotkreuz
+216,70052,Rubigen
+217,91736,Rueun
+218,33118,Rümlang
+219,1917,Saignelégier
+220,94029,Salez-Sennwald
+221,92510,Samedan
+222,94110,Sargans
+223,82172,Schachen LU
+224,34405,Schaffhausen GB
+225,90605,Schiers
+226,35097,Schlieren
+227,41020,Schmitten
+228,91728,Schnaus-Strada
+229,62075,Schwarzenbach SG
+230,190,Schweizerhalle
+231,31278,Schwerzenbach ZH
+232,50062,Schwyz
+233,80010,Schönbühl SBB
+234,92684,Scuol-Tarasp
+235,15099,Sierre/Siders
+236,35022,Siggenthal-Würenlingen
+237,145599,Singen (Hohentwiel)          
+238,22186,Sins
+239,15065,Sion
+240,3210,Sisseln
+241,2071,Solothurn
+242,74831,Spiez
+243,14035,St-Maurice
+244,10363,St-Prex
+245,14019,St-Triphon
+246,63404,St. Gallen GB
+247,63925,St. Gallen Haggen
+248,63008,St. Gallen Winkeln
+249,63149,St. Margrethen
+250,91538,St. Peter Molinis
+251,154286,Stabio Cargo
+252,82511,Steffisburg
+253,3202,Stein-Säckingen
+254,44172,Studen Auto
+255,44131,Suberg-Grossaffoltern
+256,21030,Suhr
+257,62174,Sulgen
+258,53231,Sumiswald-Grünen ETB
+259,91934,Surava
+260,20073,Sursee
+261,20503,Sursee Wassermatte
+262,41186,Sévaz (embr)
+263,91751,Tavanasa-Breil/Brigels
+264,52183,Taverne-Torricella
+265,60228,Thalheim-Altikon
+266,156281,Thun GB
+267,91892,Thusis
+268,41046,Thörishaus Station
+269,93690,Tirano
+270,91769,Trun
+271,16022,Turtmann
+272,90530,Untervaz-Trimmis
+273,157784,Vernier-Meyrin Cargo
+274,91686,Versam-Safien
+275,13037,Villeneuve
+276,16055,Visp
+277,11163,Vufflens-la-Ville
+278,20172,Waldibrücke
+279,155408,Waltenschwil
+280,2162,Wangen bei Olten
+281,94193,Weesen
+282,61051,Weinfelden
+283,61911,Weinfelden Süd
+284,31237,Wetzikon
+285,70078,Wichtrach
+286,62067,Wil
+287,21154,Wildegg
+288,80879,Wiler
+289,60012,Winterthur Grüze
+290,60327,Winterthur West
+291,22137,Wohlen
+292,42002,Yverdon-les-Bains
+293,41301,Yvonand
+294,92627,Zernez
+295,44909,Zihlbrücke
+296,90019,Zizers SBB  
+297,20016,Zofingen
+298,44107,Zollikofen
+299,22046,Zug
+300,34058,Zweidlen
+301,30916,Zürich Giesshübel
+302,30122,Zürich Herdern
+303,30395,Zürich Mülligen
+304,35071,Zürich RB Limmattal
+305,35469,Zürich RB Limmattal Wagenrep.
+306,30049,Zürich Tiefenbrunnen
+307,30254,Zürich Vorbahnhof
